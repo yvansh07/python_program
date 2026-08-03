@@ -24,6 +24,7 @@ num = "12345"
 print(type(email),type(user_name))
 print(email,user_name,num)
 
+
 # Task 1: Find the Customer Name Characters
 # A customer’s name is stored as a string:
 # customer_name = "Aarav Sharma"
