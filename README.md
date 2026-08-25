@@ -8,6 +8,7 @@ print (total_students)
 
 #float
 
+
 total_students = 100.0
 print (type(total_students))
 print (total_students)
