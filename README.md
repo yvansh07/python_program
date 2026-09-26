@@ -41,6 +41,7 @@ print(email,user_name,num)
 
 # Expected output
 # A
+
 # S
 # a
 # m
