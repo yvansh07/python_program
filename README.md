@@ -21,7 +21,7 @@ print (total_students)
 
 
 #boolean
-email =input()
+email   =input()
 user_name= "abc@gmail.com"
 num = "12345"
 print(type(email),type(user_name))
