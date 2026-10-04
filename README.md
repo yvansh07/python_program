@@ -31,6 +31,8 @@ print(email,user_name,num)
 # A customer’s name is stored as a string:
 # customer_name = "Aarav Sharma"
 
+
+
 # Write Python expressions to display:
 # The first character.+
 
